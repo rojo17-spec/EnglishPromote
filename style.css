@@ -6,10 +6,10 @@
 
 /* ========== Variables ========== */
 :root{
-  --blue: #0b67c2;
+  --blue: #308bcc;
   --green: #31a24c;
-  --yellow: #ffd54a;
-  --red: #ef6c00;
+  --yellow: #000000;
+  --red: #ff0000;
   --bg: #f7fbff;
   --card-bg: #ffffff;
   --text-dark: #0f1724;
